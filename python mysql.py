@@ -1,7 +1,7 @@
 from random import choice
 from tabulate import tabulate
 import mysql.connector
-con=mysql.connector.connect(host="localhost",user="root",password="RihanDawood@0410",database="pythonsql_db")
+con=mysql.connector.connect(host="localhost",user="root",password="****",database="pythonsql_db")
 
 
 
